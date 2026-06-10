@@ -1,4 +1,4 @@
-# 
+# Lightweight Bumblebee workflow. Featuring custom-model-training and memory-management — optimized for maximum performance and efficiency.
 
 
 
